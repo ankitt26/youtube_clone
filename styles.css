@@ -1,0 +1,188 @@
+body {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.navv {
+  padding-left: 30px;
+  padding-right: 30px;
+  color: white;
+  background-color: #000;
+}
+.heading {
+  color: #ffff;
+}
+
+.tit {
+  margin-top: 2px;
+}
+
+.section {
+  margin-left: 30px;
+}
+.video {
+  /* background-color: rgb(48, 44, 44); */
+  text-align: left;
+  margin: 30px 0px 0px 40px;
+  width: 854px;
+  /* border: 5px solid rgb(109, 106, 106); */
+  /* border-radius: 40px; */
+  /* padding: 20px 20px; */
+  color: #ffff;
+}
+
+.comments {
+  color: #ffff;
+  background-color: rgb(48, 44, 44);
+  /* border: 4px solid rgb(202, 197, 197); */
+  border-radius: 20px;
+  padding: 20px 30px 5px 30px;
+  width: 854px;
+
+  text-align: left;
+  margin: -48px 0px 0px 40px;
+  height: 161px;
+}
+
+.logo {
+  font-size: 40px;
+}
+
+.channel {
+  font-size: 17px;
+  position: relative;
+  bottom: 35px;
+  left: 55px;
+}
+
+.subs {
+  font-size: 10px;
+  position: relative;
+  bottom: 50px;
+  left: 55px;
+}
+
+.subscribe {
+  background-color: #ffff;
+  color: black;
+  font-size: 16px;
+  position: relative;
+  bottom: 210px;
+  left: 146px;
+  border: 3px solid white;
+  width: 96px;
+  padding: 0px 12px 3px;
+  border-radius: 21px;
+}
+
+.likes {
+  position: relative;
+  bottom: 264px;
+  left: 282px;
+}
+
+.share {
+  background-color: #ffff;
+  color: black;
+  font-size: 14px;
+  position: relative;
+  bottom: 296px;
+  left: 531px;
+  border: 3px solid white;
+  width: 63px;
+  padding: 0px 12px 3px;
+  border-radius: 21px;
+}
+
+.download {
+  background-color: #ffff;
+  color: black;
+  font-size: 14px;
+  position: relative;
+  bottom: 328px;
+  left: 610px;
+  border: 3px solid white;
+  width: 92px;
+  padding: 0px 12px 3px;
+  border-radius: 21px;
+}
+
+.save {
+  background-color: #ffff;
+  color: black;
+  font-size: 14px;
+  position: relative;
+  bottom: 361px;
+  left: 716px;
+  border: 3px solid white;
+  width: 75px;
+  padding: 0px 12px 3px;
+  border-radius: 21px;
+}
+
+.side-video {
+  width: 458px;
+  height: 795px;
+  background-color: #1e1e1e;
+  position: relative;
+  left: 950px;
+  bottom: 795px;
+}
+
+.side-btn1 {
+  background-color: #ffff;
+  color: black;
+  font-size: 14px;
+  border: 2px solid white;
+  width: auto;
+  padding: 0px 12px 3px;
+  border-radius: 11px;
+  margin-left: 4px;
+  margin-top: 7px;
+}
+
+.side-btn {
+  background-color: #000000;
+  color: white;
+  font-size: 14px;
+  border: 2px solid white;
+  width: auto;
+  padding: 0px 12px 3px;
+  border-radius: 11px;
+  margin-left: 3px;
+  margin-top: 7px;
+}
+
+.side-img {
+  width: 200px;
+  margin: 20px;
+  border-radius: 11px;
+}
+
+.side-title {
+  font-size: 18px;
+  max-width: 227px;
+  position: relative;
+  left: 241px;
+  bottom: 128px;
+}
+
+.side-channel {
+  font-size: 13px;
+  max-width: 227px;
+  position: relative;
+  left: 241px;
+  bottom: 130px;
+}
+
+.side-view {
+  font-size: 12px;
+  max-width: 227px;
+  position: relative;
+  left: 241px;
+  bottom: 144px;
+}
+
+.scroll-video {
+  margin-top: -144px;
+}
